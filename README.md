@@ -1,5 +1,5 @@
 #  Thought Experiments
-![Tesla] (https://abhinavgazta.github.io/images/logo.png)
+![Logo](https://abhinavgazta.github.io/images/logo.png)
 
 1. Hello world ! I'm **Abhinav Gazta**, and this is my fun experiments blog. 
 
@@ -15,7 +15,10 @@
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see 
+
+[GitHub Flavored Markdown]
+(https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
