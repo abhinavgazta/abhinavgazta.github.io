@@ -1,7 +1,8 @@
 #  Thought Experiments
-![Tesla]
-(https://abhinavgazta.github.io/Tesla.png)
-1. Creating a 
+![Tesla][Tesla.png]
+(https://abhinavgazta.github.io/images/Tesla.png)
+
+1. Creating some magic markers.
 
 - Bulleted
 - List
