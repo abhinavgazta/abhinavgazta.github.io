@@ -1,7 +1,7 @@
 #  Thought Experiments
-![Tesla]
-(https://abhinavgazta.github.io/images/tesla.png)
-1. Creating a 
+![Tesla] (https://abhinavgazta.github.io/images/logo.png)
+
+1. Hello world ! I'm **Abhinav Gazta**, and this is my fun experiments blog. 
 
 - Bulleted
 - List
