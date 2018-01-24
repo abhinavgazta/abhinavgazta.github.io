@@ -1,6 +1,6 @@
 #  Thought Experiments
 ![Tesla]
-(https://abhinavgazta.github.io/images/tesla.png)
+(https://abhinavgazta.github.io/Tesla.png)
 1. Creating a 
 
 - Bulleted
