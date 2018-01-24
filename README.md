@@ -1,5 +1,7 @@
-### Tech blog on experiments
-
+#  Thought Experiments
+![Tesla]
+(https://abhinavgazta.github.io/images/tesla.png)
+1. Creating a 
 
 - Bulleted
 - List
@@ -10,6 +12,7 @@
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
