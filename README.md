@@ -1,29 +1,27 @@
-#  Thought Experiments
-![Logo](https://abhinavgazta.github.io/images/logo.png)
+# GithubPages
 
-1. Hello world ! I'm **Abhinav Gazta**, and this is my fun experiments blog. 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
-- Bulleted
-- List
+## Development server
 
-1. Numbered
-2. List
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-**Bold** and _Italic_ and `Code` text
+## Code scaffolding
 
-[Link](url) and ![Image](src)
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-```
+## Build
 
-For more details see 
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-[GitHub Flavored Markdown]
-(https://guides.github.com/features/mastering-markdown/).
+## Running unit tests
 
-### Jekyll Themes
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhinavgazta/abhinavgazta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Running end-to-end tests
 
-### Support or Contact
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
